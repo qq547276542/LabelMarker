@@ -1,0 +1,10 @@
+1 "Braund, Mr. Owen Harris",male,22,1,0,A/5 21171,7.25,,S
+2 "Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,1,0,PC 17599,71.2833,C85,C
+1 "Heikkinen, Miss. Laina",female,26,0,0,STON/O2. 3101282,7.925,,S
+5 "McCarthy, Mr. Timothy J",male,54,0,0,17463,51.8625,E46,S
+4 "Moran, Mr. James",male,,0,0,330877,8.4583,,Q
+3 "Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31,1,0,345763,18,,S
+5 "Rice, Master. Eugene",male,2,4,1,382652,29.125,,Q
+4 "Bonnell, Miss. Elizabeth",female,58,0,0,113783,26.55,C103,S
+5 "Hewlett, Mrs. (Mary D Kingcome) ",female,55,0,0,248706,16,,S1 "Williams, Mr. Charles Eugene",male,,0,0,244373,13,,S
+5 "Nasser, Mrs. Nicholas (Adele Achem)",female,14,1,0,237736,30.0708,,C

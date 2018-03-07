@@ -1,0 +1,20 @@
+"Braund, Mr. Owen Harris",male,22,1,0,A/5 21171,7.25,,S
+"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,1,0,PC 17599,71.2833,C85,C
+"Heikkinen, Miss. Laina",female,26,0,0,STON/O2. 3101282,7.925,,S
+"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35,1,0,113803,53.1,C123,S
+"Allen, Mr. William Henry",male,35,0,0,373450,8.05,,S
+"Moran, Mr. James",male,,0,0,330877,8.4583,,Q
+"McCarthy, Mr. Timothy J",male,54,0,0,17463,51.8625,E46,S
+"Palsson, Master. Gosta Leonard",male,2,3,1,349909,21.075,,S
+"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27,0,2,347742,11.1333,,S
+"Nasser, Mrs. Nicholas (Adele Achem)",female,14,1,0,237736,30.0708,,C
+"Sandstrom, Miss. Marguerite Rut",female,4,1,1,PP 9549,16.7,G6,S
+"Bonnell, Miss. Elizabeth",female,58,0,0,113783,26.55,C103,S
+"Saundercock, Mr. William Henry",male,20,0,0,A/5. 2151,8.05,,S
+"Andersson, Mr. Anders Johan",male,39,1,5,347082,31.275,,S
+"Vestrom, Miss. Hulda Amanda Adolfina",female,14,0,0,350406,7.8542,,S
+"Hewlett, Mrs. (Mary D Kingcome) ",female,55,0,0,248706,16,,S
+"Rice, Master. Eugene",male,2,4,1,382652,29.125,,Q
+"Williams, Mr. Charles Eugene",male,,0,0,244373,13,,S
+"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31,1,0,345763,18,,S
+"Masselmani, Mrs. Fatima",female,,0,0,2649,7.225,,C
