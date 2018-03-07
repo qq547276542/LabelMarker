@@ -1,16 +1,12 @@
 # LabelMarker
 A small tools for marking training set label in machine learning
 
----------------
-
 ## Install
 
 1. Git clone this repository in your system.
 2. Install python3 , django
 3. Enter the root path in ternimal, execute:   sh django_server_start.sh
 4. Enter https://127.0.0.1:8000, enjoy it!
-
---------
 
 ## How to use
 
